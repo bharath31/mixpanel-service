@@ -1,0 +1,7 @@
+{
+  "name": "mixpanel-service",
+  "description": "A service to receive events via Branch webhooks and automatically forward the same to Mixpanel",
+  "repository": "https://github.com/bharath31/mixpanel-service",
+  "logo": "",
+  "keywords": ["python"]
+}
